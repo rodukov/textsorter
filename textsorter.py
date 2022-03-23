@@ -1,4 +1,3 @@
-
 class textsorter:
 	def sort_text(text: str, _blacklisted_symbols: dict = ["!", "?", ".", ",", "(", ")"]) -> dict:
 		"""This function will return all words from the text sorted by mentionability and descending"""
