@@ -51,7 +51,7 @@ pip3 install beautifultable
 +-------+-------+
 ```
 
-### Languages and Tools:
+### What programming languages and tools have I used?
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />](https://github.com/rodukov)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/rodukov)
