@@ -33,7 +33,7 @@ pip3 install beautifultable
 >>> from beautifultable import BeautifulTable
 >>> table = BeautifulTable()
 >>> text_sorter_data = {'Hello': 2, 'how': 1, 'are': 1, 'you': 1}
->>> i in text_sorter_data.items():
+>>> for i in text_sorter_data.items():
 ...	table.rows.append([i[0], i[1]])
 ...
 >>> table.columns.header = ["Word", "Count"]
