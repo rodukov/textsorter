@@ -1,5 +1,5 @@
 class textsorter:
-	def sort_text(text: str, _blacklisted_symbols: dict = ["!", "?", ".", ",", "(", ")"]) -> dict:
+	def sort_text(text: str, _blacklisted_symbols: list = ["!", "?", ".", ",", "(", ")"]) -> dict:
 		"""This function will return all words from the text sorted by mentionability and descending"""
 		text = text.split()
 		# Remove unnecessary characters from the text
