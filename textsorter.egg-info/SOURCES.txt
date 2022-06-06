@@ -1,0 +1,8 @@
+README.md
+setup.py
+textsorter/__init__.py
+textsorter/textsorter.py
+textsorter.egg-info/PKG-INFO
+textsorter.egg-info/SOURCES.txt
+textsorter.egg-info/dependency_links.txt
+textsorter.egg-info/top_level.txt

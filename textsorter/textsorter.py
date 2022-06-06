@@ -13,6 +13,3 @@ class textsorter:
 			if (i not in sorted_text): sorted_text[i] = 1
 			else: sorted_text[i] += 1
 		return { k: v for k, v in sorted(sorted_text.items(), key=lambda item: item[1], reverse=True) }
-
-if __name__ == "__main__":
-	print(textsorter.sort_text(input("[ textcounter ] > type the text here: ")))
