@@ -4,8 +4,7 @@ This simple script sorts all the words in the text by popularity in descending o
 
 ## How to install it?
 ### Via pip
-Now you can use pip3:<br>
-`pip3 install textsorter`<br>
+Now you can use pip3: `pip3 install textsorter`
 ### Via github
 ```bash
 git clone https://github.com/rodukov/textsorter
