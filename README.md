@@ -3,9 +3,10 @@
 This simple script sorts all the words in the text by popularity in descending order.
 
 ## How to install it?
+### Via pip
 Now you can use pip3:<br>
 `pip3 install textsorter`<br>
-or<br>
+### Via github
 ```bash
 git clone https://github.com/rodukov/textsorter
 cd textsorter
